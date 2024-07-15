@@ -1,0 +1,13 @@
+{"restaurantId":1,"reviewCount":2,"averageRating":7.0,"averageReviewLength":40.0,"reviewAge":{"oldest":437,"newest":262,"average":349}}
+{"restaurantId":2,"reviewCount":2,"averageRating":5.75,"averageReviewLength":58.5,"reviewAge":{"oldest":558,"newest":478,"average":518}}
+{"restaurantId":3,"reviewCount":2,"averageRating":4.75,"averageReviewLength":52.5,"reviewAge":{"oldest":371,"newest":336,"average":353}}
+{"restaurantId":4,"reviewCount":3,"averageRating":3.83,"averageReviewLength":49.33,"reviewAge":{"oldest":648,"newest":324,"average":486}}
+{"restaurantId":5,"reviewCount":1,"averageRating":1.0,"averageReviewLength":56.0,"reviewAge":{"oldest":347,"newest":347,"average":347}}
+{"restaurantId":6,"reviewCount":4,"averageRating":6.75,"averageReviewLength":39.25,"reviewAge":{"oldest":593,"newest":261,"average":409}}
+{"restaurantId":10,"reviewCount":2,"averageRating":5.0,"averageReviewLength":25.5,"reviewAge":{"oldest":445,"newest":233,"average":339}}
+{"restaurantId":11,"reviewCount":1,"averageRating":7.0,"averageReviewLength":47.0,"reviewAge":{"oldest":412,"newest":412,"average":412}}
+{"restaurantId":12,"reviewCount":2,"averageRating":1.75,"averageReviewLength":67.5,"reviewAge":{"oldest":458,"newest":273,"average":365}}
+{"restaurantId":13,"reviewCount":1,"averageRating":2.0,"averageReviewLength":61.0,"reviewAge":{"oldest":432,"newest":432,"average":432}}
+{"restaurantId":14,"reviewCount":4,"averageRating":5.25,"averageReviewLength":44.0,"reviewAge":{"oldest":473,"newest":259,"average":349}}
+{"restaurantId":15,"reviewCount":2,"averageRating":3.25,"averageReviewLength":32.0,"reviewAge":{"oldest":491,"newest":299,"average":395}}
+{"restaurantId":18,"reviewCount":1,"averageRating":8.0,"averageReviewLength":80.0,"reviewAge":{"oldest":321,"newest":321,"average":321}}
